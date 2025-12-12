@@ -91,7 +91,7 @@ Miniaplicativo de gerenciamento de contatos via terminal.
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU-USUARIO/seu-repo.git
+git clone https://github.com/DevTjw/trabalhos_escolares.git
 
 # Entre na pasta
 cd seu-repo
